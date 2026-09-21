@@ -70,3 +70,25 @@ Evaluate:
 - whether the delivery sounds too theatrical, robotic, salesy, or flat.
 
 If acceptable, reuse the same general voice/direction for the full script. If not, change one or two controlled properties at a time rather than regenerating blindly.
+
+
+## Full narration generation attempt — blocked by Descript credits
+
+A full-script Joseph narration generation was attempted after the repaired sample was accepted.
+
+Result:
+- Descript stopped the job with: **Insufficient AI credits to complete the request**.
+- Descript reported **17.388 AI credits** consumed by the failed/partial attempt.
+- The project **did change partially** before the stop.
+- The full composition duration is now approximately **562.88 seconds** (~9:23), but because the generation job did not complete, this composition is **NOT approved for production** and must be treated as partial/unverified.
+- No full composition was published.
+
+QA rule added:
+- do not use the partially generated full narration unless an end-to-end verification confirms every script block has a speaker assignment and the final line is actually spoken;
+- if credits are restored, resume by completing/repairing the existing full composition rather than blindly starting a second full regeneration;
+- do not pay for an upgrade without an explicit decision that the additional credits are worth the cost.
+
+Repaired short sample status:
+- the original silence was traced to the final paragraph having no voice assigned;
+- repaired sample ends with the 2025 IEA sentence and no intended trailing silence;
+- refreshed unlisted preview remains: https://share.descript.com/view/590m3ovU6xy
