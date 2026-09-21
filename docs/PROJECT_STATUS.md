@@ -1,7 +1,7 @@
 # Project Status
 
 **Updated:** 2026-09-20  
-**Stage:** Pilot development  
+**Stage:** VID-001 script development  
 **Repository:** `jcbones01-glitch/faceless-youtube-command-center`
 
 ## Current strategic decision
@@ -12,109 +12,75 @@ Audience promise: **Explain a familiar modern experience by revealing the machin
 
 Lead pilot: **AI infrastructure and grid connections.**
 
-Working title: **Why Data Centers Can't Just Plug Into the Grid**
+Lead title hypothesis: **Why Data Centers Can't Just Plug Into the Grid**
 
 Target format: narrated faceless mini-documentary using original diagrams, a small number of attributed charts, and selectively licensed footage.
 
-Planning duration: **9–11 minutes**, treated as a production target rather than a scientifically established optimum. Final duration should follow the script and timed read-through.
+Planning duration: **9–11 minutes**, treated as a production target rather than a scientifically established optimum. Final duration follows the script and timed read-through.
 
-Incremental development subscription budget: **$0** until specific paid needs are verified.
+Incremental development subscription budget: **$0** until a specific paid need is verified.
 
 ## Completed
 
-- Core channel territory selected.
-- Audience promise selected.
+- Core channel territory and audience promise selected.
 - 20-concept launch portfolio preserved.
 - VID-001 selected as pilot.
-- Initial evidence ledger for VID-001 assembled.
-- Three title/thumbnail packaging directions drafted.
-- Opening drafted.
-- Storyboard/evidence map drafted.
-- Production responsibilities defined.
-- Pilot measurement protocol defined.
-- Originality/copyright safeguards defined.
-- GitHub repository created and initialized.
+- Initial evidence ledger assembled and then strengthened through full source review.
+- Three title/thumbnail directions drafted.
+- Competitor public-data panel completed and corrected to separate Shorts from long-form.
+- Bounded opening-structure review completed.
+- Lead title retained after competitor review.
+- Full Berkeley Lab `Speed to Power` report reviewed.
+- 2026 Berkeley large-load tariff update reviewed.
+- Current PGE large-load study process reviewed.
+- ATC large-load planning/construction ranges selected as the bounded timeline example.
+- IEA 2026 energy/AI outlook reviewed.
+- Editorial safeguards and unsafe claims frozen.
+- GitHub source of truth operational.
 
-## Important research conclusion
+## Completed work packages
 
-No credible evidence establishes a guaranteed formula for virality. Research and practitioner evidence can guide hypotheses about clarity, curiosity, storytelling, visuals, pacing, satisfaction, and packaging, but those factors must be tested on this channel.
+### WP-001 — Comparative channel/video panel — COMPLETE
 
-The first video is a feasibility pilot. It cannot isolate the causal effect of topic, title, thumbnail, narration, pacing, and editing simultaneously.
+Key result:
+- Retain **Why Data Centers Can't Just Plug Into the Grid** as the lead test title.
+- Start with the concrete physical contradiction before forecasts or jargon.
+- No private competitor CTR/retention/revenue claims.
 
-## Current unfinished work
+Artifacts:
+- `research/competitor_panel_snapshot_2026-09-20.md`
+- `research/competitor_opening_code_v1.md`
+- `research/competitor_panel_findings_v1.md`
 
-### WP-001 — Comparative channel/video panel
+### WP-002 — Full source-method review — COMPLETE
 
-Build a documented comparison set focused on AI/grid/infrastructure explainers.
+Key result:
+- “Connection” is broader than the interconnection study.
+- Final story must include planning, studies, physical upgrades, reliable capacity, operations and financial commitments.
+- Berkeley Lab's 41 potential solutions are not universal recommendations.
+- No universal data-center wait time is allowed.
+- ATC is the selected named timeline illustration; PGE supports the multi-stage process explanation.
 
-Initial channel candidates:
-- fern
-- Branch Education
-- Asianometry
-- Wendover Productions
-- smaller relevant channels selected before ranking videos, to reduce survivor bias
+Artifacts:
+- `research/VID-001_SOURCE_METHOD_REVIEW.md`
+- `research/VID-001_SOURCE_LEDGER.md`
 
-For each selected channel, target 20–30 recent long-form uploads where practical and record:
-- URL
-- publication timestamp
-- snapshot timestamp
-- current views
-- duration
-- title
-- topic
-- thumbnail observations
-- what was actually watched/transcribed
-- missing data explicitly as missing
+## Active work
 
-Shorts and live streams remain separate.
+### WP-003 — Final VID-001 script — IN PROGRESS
 
-Do not pretend a current cumulative view count reveals day-7 views. Begin repeat snapshots for age-matched comparisons. Competitor CTR, retention, revenue, and private analytics are unknown unless legitimately available.
+Requirements:
+- use the fictional project only as an illustrative device;
+- put the concrete connection problem before statistics;
+- preserve claim IDs in the review draft;
+- clearly label forecasts and named utility examples;
+- use “connection” versus “interconnection” correctly;
+- avoid unsupported universal wait times;
+- deliver the three-question viewer payoff before CTA.
 
-### WP-002 — Full source-method review for VID-001
+## Next
 
-Read the full Berkeley Lab large-load/grid-connection material and determine whether a bounded public utility example materially improves the explanation.
-
-### WP-003 — Final VID-001 script
-
-Draft narration from the verified claim ledger. Mark projections clearly. Preserve the fictional project as an illustrative device, not a real case.
-
-### WP-004 — Production preparation
-
-- timed read-through
-- claim-by-claim review
-- three thumbnail drafts
-- narration sample
-- diagram/asset specifications
-- rights ledger
-- rough cut
-
-## Publication measurement
-
-Pre-publication hypothesis:
-
-> A clear explanation of grid connections, told through an illustrative project, can satisfy viewers drawn by the title while being economical to produce.
-
-When published, record observations around:
-- ~48 hours
-- day 7
-- day 28
-
-Subject to available YouTube analytics, record:
-- views
-- impressions
-- CTR
-- average view duration
-- average percentage viewed
-- 30-second retention
-- watch time
-- traffic-source mix
-- subscribers gained
-- substantive viewer feedback
-- production time by task
-- actual cash costs
-
-If exposure is too small, classify the audience evidence as insufficient rather than forcing a conclusion.
-
-## Next action
-
-Complete WP-001, then use its findings to review VID-001 packaging and opening before freezing the final narration script.
+1. Draft review narration with claim IDs.
+2. Run claim-by-claim factual audit.
+3. Produce clean narration version.
+4. Move to WP-004: timed read-through, thumbnail drafts, narration sample, diagrams/assets, rights ledger and rough cut.
