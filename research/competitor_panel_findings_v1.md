@@ -1,144 +1,109 @@
 # Competitor Panel Findings v1
 
 **Work package:** WP-001  
-**Evidence base:** `competitor_panel_snapshot_2026-09-20.md`  
+**Evidence base:** `competitor_panel_snapshot_2026-09-20.md` and `competitor_opening_code_v1.md`  
 **Decision use:** review VID-001 packaging/opening only
+
+## Data-quality correction
+
+The first pass mixed a few Shorts into recent-video lists. The corrected snapshot now separates Shorts from long-form. In particular:
+- Asianometry's 2:22 *Hybrid Memory Cube* Short is excluded from long-form comparison and replaced by *True 3D DRAM* as a long-form comparator.
+- Engineering with Rosie's *The Biggest Myth About Driving EVs* is a YouTube Short and is excluded from long-form comparison.
+
+This correction does not change the central packaging implication, but it improves the validity of the comparison set.
 
 ## What is directly observed
 
-Across the sampled channels, high-view and lower-view videos coexist on the same channels. There is no evidence that channel size alone determines outcome.
+Across the sampled channels, high-view and lower-view videos coexist on the same channels. Channel size alone does not determine the observed public total.
 
-The public samples repeatedly use a small set of title families:
+Repeated title families include:
+- concrete mechanism: “How [system] works”;
+- question about a familiar system;
+- contradiction/surprising constraint;
+- hidden physical layer behind a digital or modern outcome;
+- high-stakes consequence attached to a specific mechanism.
 
-1. **Concrete mechanism**
-   - “How the Channel Tunnel Works”
-   - “How Are Microchips Made?”
-   - “How Do Graphics Cards Work?”
+These are descriptive patterns, not proven causes of performance.
 
-2. **Question about a familiar system**
-   - “Why Roads Get Washboards”
-   - “Do Retention Ponds Actually Work?”
-   - “How Fast Do EV Batteries Actually Degrade?”
+## Opening-structure observations
 
-3. **Contradiction / surprising constraint**
-   - “Stopping the Unstoppable”
-   - “The Mind-Blowing Flaw That Flooded New Orleans”
-   - “Silicon Valley Thinks TSMC is Braking the AI Boom”
+A small verified long-form subset shows several recurring approaches:
 
-4. **Hidden physical layer behind a digital/modern outcome**
-   - CPU/transistor fabrication
-   - dark fiber
-   - semiconductor-fab transport
-   - grid/transmission systems
+- **case first → hidden mechanism**: Practical Engineering's *Stopping the Unstoppable*;
+- **context → misconception → contradiction**: *Bridge Demolition Is Complicated*;
+- **scene → expectation violation → thesis**: Wendover's *Why Texas Wins*;
+- **durable incumbent → long-hyped challenger → new catalyst**: Asianometry's solid-state-transformer video;
+- **technical bottleneck → analogy → question → constraint**: Asianometry's *True 3D DRAM*;
+- **vivid hypothetical → technology reveal → global comparison**: Engineering with Rosie's UHVDC video.
 
-5. **High-stakes consequence**
-   - invasion preparation
-   - industrial collapse
-   - flooding
-   - “death” of a content category
+Private retention data are unavailable, so no opening is labeled causally superior.
 
-These patterns are descriptive. They are not proven causes of performance.
+## VID-001 packaging decision
 
-## Within-channel contrasts worth testing, not copying
-
-### fern
-
-In one relatively tight August–September window, “The Death of Educational Content on YouTube” had a much larger public view total than several adjacent uploads. The title combines a familiar category with a strong consequence. That does **not** establish that “death of” wording caused the difference.
-
-### Wendover Productions
-
-Among recent uploads, “How the Channel Tunnel Works” and “How Taiwan is Preparing to Get Invaded” had larger public totals than “Why Texas Wins” and “Why the Ikea Business Model Wins” in the retrieved snapshot.
-
-A plausible hypothesis is that a concrete mechanism or clearly legible high-stakes problem can create a stronger promise than an abstract “wins” frame. Topic demand and recommendation exposure remain major confounders.
-
-### Branch Education
-
-The channel's largest visible examples are direct, concrete engineering explanations such as microchip manufacturing and GPU operation. The production value and channel's established audience are inseparable from those outcomes, but the title promise is unusually explicit: the viewer knows exactly what mechanism will be explained.
-
-### Asianometry
-
-Specialist component labels sometimes receive modest public totals, while some titles that connect technology to a broad consequence or analogy are much larger. This supports testing a **specific mechanism + broader stakes** formulation rather than assuming specialist terminology alone creates interest.
-
-### Practical Engineering
-
-The sample contains very large public totals for titles framed around an apparently impossible problem, a visible everyday mystery, or a dramatic engineering consequence. Straightforward process titles also work, but outcomes vary widely.
-
-### Engineering with Rosie
-
-In the June sample, EV titles framed around a myth or a concrete degradation question had higher public totals than the more specialist wind-blade and hydrogen-label explainers. This small-channel comparison is useful because it shows the same basic packaging tension at a very different scale.
-
-## Implications for VID-001
-
-### 1. Keep the current lead title
+### Lead title hypothesis — retain
 
 **Why Data Centers Can't Just Plug Into the Grid**
 
-This title has several useful properties that match observable patterns in the comparison set:
+Reasons to retain it as the lead hypothesis:
+- familiar object: data centers;
+- ordinary action: “plug in”;
+- immediate contradiction;
+- concrete physical mechanism promised;
+- the script can clearly deliver the answer without overgeneralizing all power grids.
 
-- a familiar object: data centers
-- an ordinary action: “plug in”
-- an apparent contradiction: a huge facility cannot simply connect to electricity
-- a concrete mechanism promised: the grid connection itself
-- enough specificity that the video can clearly pay off the title
+This is not a proven winner; it is the current best-defined test hypothesis.
 
-This does **not** mean the title is proven to win. It remains a test candidate.
+### Secondary title hypotheses — retain for later testing
 
-### 2. Keep the connection bottleneck visually central
-
-Current thumbnail hypothesis:
-
-**server building ↔ visible connection gap ↔ substation/grid**  
-Text: **WAITING FOR POWER**
-
-The competitor panel has not yet systematically coded thumbnails, so this is not a data-derived thumbnail rule. It is retained because it visualizes the exact mechanism promised by the title in one glance.
-
-### 3. Prefer the specific mechanism over the broadest AI framing
-
-Alternative:
 **The Power Grid Wasn't Built for the AI Boom**
 
-This can remain a test candidate, but the current lead title is easier to support factually and more concrete. Grid conditions vary by region, and “wasn't built for” can overgeneralize.
+Useful broad-stakes framing, but more vulnerable to regional overgeneralization.
 
-Alternative:
 **AI's Power Problem Goes Beyond Power Plants**
 
-This is accurate as a direction but less immediately concrete than the “plug into the grid” contradiction.
+Factually safer than some broad AI-grid claims, but less concrete than the “plug in” contradiction.
 
-### 4. Opening should pay off the contradiction immediately
+## VID-001 opening decision
 
-Keep the current opening logic:
+Use the concrete project problem before statistics or jargon.
 
-- land acquired
-- data center designed
-- computers available
-- now: “where do you plug it in?”
-- visible power line does not equal a usable connection at the required scale
+Recommended sequence:
+1. land/building/computers are ready;
+2. ask “where do you plug it in?”;
+3. establish that a nearby line does not guarantee a usable connection at the required scale;
+4. promise to follow the hidden physical path;
+5. only then introduce projected data-center electricity growth.
 
-The panel does not provide private retention evidence, so this is an editorial hypothesis, not a verified retention optimization.
+Avoid beginning with TWh forecasts, interconnection terminology, tariffs, MW/MWh definitions, or a long AI-boom setup.
 
-### 5. Avoid specialist jargon in the first promise
+## Thumbnail decision boundary
 
-Terms such as interconnection studies, tariffs, MW/MWh, transmission constraints, substations, and flexibility should enter **after** the viewer understands the simple physical problem.
+Systematic thumbnail screenshots were not independently coded in this research pass, so the project does **not** claim a data-derived thumbnail formula.
 
-The stronger public title examples often start with the viewer's intuitive object/problem and reveal the technical layer afterward.
+Retain the existing concept as a design hypothesis:
+**data-center building ↔ visible connection gap ↔ substation/grid**
+with optional text:
+**WAITING FOR POWER**
 
-## What the panel does NOT establish
+The image should communicate the title's mechanism in one glance and remain legible at phone size.
+
+## What the panel does not establish
 
 It does not establish:
-- an optimal title length
-- an optimal number of thumbnail words
-- an optimal video length
-- a causal effect of “why” vs “how”
-- a causal effect of negative/high-stakes wording
-- any competitor CTR benchmark
-- any competitor retention benchmark
-- any revenue benchmark
-- that copying one successful title structure will reproduce its views
+- an optimal title length;
+- an optimal number of thumbnail words;
+- an optimal video length;
+- a causal effect of “why” vs “how”;
+- a causal effect of negative/high-stakes wording;
+- a competitor CTR benchmark;
+- a competitor retention benchmark;
+- a revenue benchmark;
+- that copying a successful title/opening will reproduce its views.
 
-## Next research action
+## WP-001 completion decision
 
-1. Code thumbnails for a small balanced subset of higher- and lower-relative performers.
-2. Watch/transcribe the first 60–90 seconds of that same subset.
-3. Record what question, contradiction, or payoff is established before the first major context section.
-4. Keep observations separate from causal hypotheses.
-5. Then freeze the VID-001 packaging set and move into final script drafting.
+The completion boundary is satisfied: the panel is documented well enough to review VID-001 title and opening without unsupported private-analytics or causal claims.
+
+Systematic thumbnail-image coding remains an optional production/design task rather than a blocker.
+
+**Next:** WP-002 — full source-method review for VID-001, then WP-003 final narration.
