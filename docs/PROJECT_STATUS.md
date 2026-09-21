@@ -1,96 +1,87 @@
 # Project Status
 
 **Updated:** 2026-09-20  
-**Stage:** VID-001 production preparation  
+**Stage:** VID-001 rough-cut assembly  
 **Repository:** `jcbones01-glitch/faceless-youtube-command-center`
 
 ## Current strategic decision
 
 Channel territory: **the hidden physical, technological, and economic systems behind modern life.**
 
-Audience promise: **Explain a familiar modern experience by revealing the machinery, coordination, and trade-offs underneath it.**
+Lead pilot:
+**Why Data Centers Can't Just Plug Into the Grid**
 
-Lead pilot: **AI infrastructure and grid connections.**
+Lead thumbnail:
+**Thumbnail A — WAITING FOR POWER**
 
-Lead title hypothesis: **Why Data Centers Can't Just Plug Into the Grid**
-
-Target format: narrated faceless mini-documentary using original diagrams, a small number of attributed charts, and selectively licensed footage.
-
-Fact-checked clean narration: **1,438 words**, implying roughly 9.0–9.9 minutes at 160–145 words/minute before visual pauses.
-
-Incremental development subscription budget: **no new paid subscription authorized** until a specific blocker justifies it.
-
-## Completed work packages
+## Completed research/editorial gates
 
 ### WP-001 — Comparative channel/video panel — COMPLETE
-
-Artifacts:
-- `research/competitor_panel_snapshot_2026-09-20.md`
-- `research/competitor_opening_code_v1.md`
-- `research/competitor_panel_findings_v1.md`
-
-Result:
-- retain the concrete “plug into the grid” title hypothesis;
-- establish the physical contradiction before statistics or jargon;
-- make no private competitor CTR/retention/revenue claims.
+- competitor public-data panel;
+- long-form/Shorts classification correction;
+- opening-structure review;
+- title hypothesis retained without private-analytics or causal overclaiming.
 
 ### WP-002 — Full source-method review — COMPLETE
-
-Artifacts:
-- `research/VID-001_SOURCE_METHOD_REVIEW.md`
-- `research/VID-001_SOURCE_LEDGER.md`
-
-Result:
-- distinguish broad electric-service **connection** from narrower **interconnection**;
-- no universal data-center wait-time claim;
-- ATC is a named bounded timeline illustration, not a U.S. average;
-- PGE is a utility-specific process example;
-- flexibility is conditional;
-- scenario ranges are not labeled confidence intervals.
+- full Berkeley `Speed to Power` review;
+- PGE and ATC bounded examples;
+- IEA/LBNL forecast methodology review;
+- unsafe claims frozen.
 
 ### WP-003 — Final VID-001 script — COMPLETE
+- review script with claim IDs;
+- factual audit;
+- clean narration;
+- **1,438 words**;
+- factual status: **PASS FOR TIMED NARRATION TESTING**.
 
-Artifacts:
-- `scripts/VID-001_SCRIPT_V1_REVIEW.md`
-- `research/VID-001_SCRIPT_FACT_CHECK_V1.md`
-- `scripts/VID-001_SCRIPT_V1_CLEAN.md`
+### WP-004 — Production package — COMPLETE
 
-Result:
-- factual audit: **PASS FOR TIMED NARRATION TESTING**
-- clean script: **1,438 words**
+Prepared:
+- shot list;
+- diagram/chart specifications;
+- rights ledger;
+- narration direction;
+- 3 Canva thumbnail variants;
+- D01–D09 editable Canva visuals;
+- Canva asset index;
+- scene-to-asset assembly map;
+- rough-cut checklist;
+- upload metadata/source-description draft;
+- repaired 52-second Joseph sample;
+- no-cost scratch narration timing reference.
+
+Scratch timing:
+**~9:25.7**
+
+The scratch voice is timing-only and must not be published.
 
 ## Active work
 
-### WP-004 — Production package — IN PROGRESS
+### WP-005 — Rough-cut assembly and final narration replacement — ACTIVE
 
-Completed production-planning artifacts:
-- `production/VID-001_SHOT_LIST_V1.md`
-- `production/VID-001_DIAGRAM_SPECS.md`
-- `production/VID-001_RIGHTS_LEDGER.md`
-- `production/VID-001_NARRATION_DIRECTION.md`
-- `production/VID-001_THUMBNAIL_BRIEFS.md`
-- `production/VID-001_ROUGH_CUT_CHECKLIST.md`
-- `production/VID-001_WORKSPACE_STATE.md`
+Current blocker:
+- Descript AI credits are insufficient to finish the approved Joseph narration.
 
-External workspace state:
-- Canva root and VID-001 production folders created.
-- Descript VID-001 project created.
-- Full approved script staged.
-- **54-second Voice Sample A** created with Descript's Joseph voice.
-- Voice sample published only as an unlisted Descript audio preview.
-- Full narration has **not** been generated.
-- No video has been published to YouTube.
+This does **not** block visual editing because the scratch timing track establishes the full sequence.
 
-## Current production gate
+## Current asset state
 
-Listen to Voice Sample A before generating the full narration.
+Canva production folder:
+https://www.canva.com/folder/FAHVyZ1hm8E
 
-Unlisted preview:
+Descript main project:
+https://web.descript.com/197ab4da-2358-4573-9683-c6767d337a89
+
+Repaired Joseph sample:
 https://share.descript.com/view/590m3ovU6xy
 
-If the voice/delivery passes review, next steps are:
-1. generate the full approved narration with the same controlled direction;
-2. record actual runtime;
-3. create thumbnail/diagram visual assets;
-4. assemble the first rough cut;
-5. run source/rights/mobile review before any YouTube publication.
+## Next
+
+1. assemble visuals against ~9:25 scratch timing;
+2. keep the rough cut free of unnecessary licensed B-roll;
+3. when narration credits/funds are available, finish or repair the existing Joseph full composition;
+4. replace scratch audio and retime;
+5. create final captions;
+6. run source/rights/mobile QA;
+7. upload private/unlisted for end-to-end review before any public release.
