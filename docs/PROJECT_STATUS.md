@@ -1,7 +1,7 @@
 # Project Status
 
 **Updated:** 2026-09-20  
-**Stage:** VID-001 script development  
+**Stage:** VID-001 production preparation  
 **Repository:** `jcbones01-glitch/faceless-youtube-command-center`
 
 ## Current strategic decision
@@ -16,71 +16,81 @@ Lead title hypothesis: **Why Data Centers Can't Just Plug Into the Grid**
 
 Target format: narrated faceless mini-documentary using original diagrams, a small number of attributed charts, and selectively licensed footage.
 
-Planning duration: **9–11 minutes**, treated as a production target rather than a scientifically established optimum. Final duration follows the script and timed read-through.
+Fact-checked clean narration: **1,438 words**, implying roughly 9.0–9.9 minutes at 160–145 words/minute before visual pauses.
 
-Incremental development subscription budget: **$0** until a specific paid need is verified.
-
-## Completed
-
-- Core channel territory and audience promise selected.
-- 20-concept launch portfolio preserved.
-- VID-001 selected as pilot.
-- Initial evidence ledger assembled and then strengthened through full source review.
-- Three title/thumbnail directions drafted.
-- Competitor public-data panel completed and corrected to separate Shorts from long-form.
-- Bounded opening-structure review completed.
-- Lead title retained after competitor review.
-- Full Berkeley Lab `Speed to Power` report reviewed.
-- 2026 Berkeley large-load tariff update reviewed.
-- Current PGE large-load study process reviewed.
-- ATC large-load planning/construction ranges selected as the bounded timeline example.
-- IEA 2026 energy/AI outlook reviewed.
-- Editorial safeguards and unsafe claims frozen.
-- GitHub source of truth operational.
+Incremental development subscription budget: **no new paid subscription authorized** until a specific blocker justifies it.
 
 ## Completed work packages
 
 ### WP-001 — Comparative channel/video panel — COMPLETE
-
-Key result:
-- Retain **Why Data Centers Can't Just Plug Into the Grid** as the lead test title.
-- Start with the concrete physical contradiction before forecasts or jargon.
-- No private competitor CTR/retention/revenue claims.
 
 Artifacts:
 - `research/competitor_panel_snapshot_2026-09-20.md`
 - `research/competitor_opening_code_v1.md`
 - `research/competitor_panel_findings_v1.md`
 
-### WP-002 — Full source-method review — COMPLETE
+Result:
+- retain the concrete “plug into the grid” title hypothesis;
+- establish the physical contradiction before statistics or jargon;
+- make no private competitor CTR/retention/revenue claims.
 
-Key result:
-- “Connection” is broader than the interconnection study.
-- Final story must include planning, studies, physical upgrades, reliable capacity, operations and financial commitments.
-- Berkeley Lab's 41 potential solutions are not universal recommendations.
-- No universal data-center wait time is allowed.
-- ATC is the selected named timeline illustration; PGE supports the multi-stage process explanation.
+### WP-002 — Full source-method review — COMPLETE
 
 Artifacts:
 - `research/VID-001_SOURCE_METHOD_REVIEW.md`
 - `research/VID-001_SOURCE_LEDGER.md`
 
+Result:
+- distinguish broad electric-service **connection** from narrower **interconnection**;
+- no universal data-center wait-time claim;
+- ATC is a named bounded timeline illustration, not a U.S. average;
+- PGE is a utility-specific process example;
+- flexibility is conditional;
+- scenario ranges are not labeled confidence intervals.
+
+### WP-003 — Final VID-001 script — COMPLETE
+
+Artifacts:
+- `scripts/VID-001_SCRIPT_V1_REVIEW.md`
+- `research/VID-001_SCRIPT_FACT_CHECK_V1.md`
+- `scripts/VID-001_SCRIPT_V1_CLEAN.md`
+
+Result:
+- factual audit: **PASS FOR TIMED NARRATION TESTING**
+- clean script: **1,438 words**
+
 ## Active work
 
-### WP-003 — Final VID-001 script — IN PROGRESS
+### WP-004 — Production package — IN PROGRESS
 
-Requirements:
-- use the fictional project only as an illustrative device;
-- put the concrete connection problem before statistics;
-- preserve claim IDs in the review draft;
-- clearly label forecasts and named utility examples;
-- use “connection” versus “interconnection” correctly;
-- avoid unsupported universal wait times;
-- deliver the three-question viewer payoff before CTA.
+Completed production-planning artifacts:
+- `production/VID-001_SHOT_LIST_V1.md`
+- `production/VID-001_DIAGRAM_SPECS.md`
+- `production/VID-001_RIGHTS_LEDGER.md`
+- `production/VID-001_NARRATION_DIRECTION.md`
+- `production/VID-001_THUMBNAIL_BRIEFS.md`
+- `production/VID-001_ROUGH_CUT_CHECKLIST.md`
+- `production/VID-001_WORKSPACE_STATE.md`
 
-## Next
+External workspace state:
+- Canva root and VID-001 production folders created.
+- Descript VID-001 project created.
+- Full approved script staged.
+- **54-second Voice Sample A** created with Descript's Joseph voice.
+- Voice sample published only as an unlisted Descript audio preview.
+- Full narration has **not** been generated.
+- No video has been published to YouTube.
 
-1. Draft review narration with claim IDs.
-2. Run claim-by-claim factual audit.
-3. Produce clean narration version.
-4. Move to WP-004: timed read-through, thumbnail drafts, narration sample, diagrams/assets, rights ledger and rough cut.
+## Current production gate
+
+Listen to Voice Sample A before generating the full narration.
+
+Unlisted preview:
+https://share.descript.com/view/590m3ovU6xy
+
+If the voice/delivery passes review, next steps are:
+1. generate the full approved narration with the same controlled direction;
+2. record actual runtime;
+3. create thumbnail/diagram visual assets;
+4. assemble the first rough cut;
+5. run source/rights/mobile review before any YouTube publication.
